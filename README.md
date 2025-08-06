@@ -9,7 +9,7 @@ The analysis covers product performance, customer segmentation, revenue trends, 
 - Full RFM (Recency, Frequency, Monetary) customer segmentation using window functions
 - Sales performance by employee
 - Revenue distribution by city and country
-- SQL skills demonstrated: JOINs, CTEs, `NTILE()`, `RANK()`, aggregation, and filtering
+- SQL skills demonstrated: JOINs, CTEs, NTILE(), RANK(), aggregation, and filtering
 
 ## Tools
 - SQL Server (SSMS)
